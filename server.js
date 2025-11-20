@@ -63,5 +63,5 @@ app.post("/reviews", (req, res) => {
 
 // Start server
 app.listen(5000, () => {
-  console.log("✅ Indiyummm backend running on http://localhost:5000");
+  console.log("✅ Indiyummm backend running on ");
 });
